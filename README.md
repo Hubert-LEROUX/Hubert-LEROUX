@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hubert-LEROUX
+- 👋 Hi, I’m @Hubert-LEROUX from France
 - 👀 I’m interested in maths, physics, cryptography, algorithmy
 - 😎 I code in Python and C++ mainly
 - 🌱 I’m currently learning algorithmy through competitive programming

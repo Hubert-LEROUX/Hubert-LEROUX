@@ -5,9 +5,6 @@
 - 💞️ I’m looking to collaborate with the use of the Github platform
 - 📫 How to reach me - hubertleroux1@gmail.com
 
-Bonjour, je m'appelle Hubert. Je suis actuellement en fin de terminale à Paris. Je programme depuis quelques années déjà mais je m'y suis mis sérieusement cette année, surtout grâce à la découverte de l'algorithmie et des compétitions de programmation. J'ai ainsi participé à divers concours pour progresser comme les concours Prologin ou ceux de Google. Je tiens à remercier la plateforme France-IOI qui m'a permis d'arriver jusque là (http://www.france-ioi.org/user/perso.php?sLogin=hubertleroux).
-
-Je travaille seul ou en équipe, avec un club d'info que j'ai créé dans mon lycée. 
 
 J'ai mis dans ce github quelques projets et codes que j'ai réalisé. Je suis particulièrement fier de certains comme:
 - **Engima**
